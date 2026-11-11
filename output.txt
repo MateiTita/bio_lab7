@@ -1,0 +1,43 @@
+Restriction enzymes
+  name     recognition sequence   cleavage site
+  EcoRI    5'-GAATTC-3'           5'-G^AATTC-3'
+           3'-CTTAAG-5'           3'-CTTAA^G-5'
+  BamHI    5'-GGATCC-3'           5'-G^GATCC-3'
+           3'-CCTAGG-5'           3'-CCTAG^G-5'
+  HindIII  5'-AAGCTT-3'           5'-A^AGCTT-3'
+           3'-TTCGAA-5'           3'-TTCGA^A-5'
+
+NM_000584.4 Homo sapiens C-X-C motif chemokine ligand 8 (CXCL8), transcript variant 1, mRNA
+  length: 1642 bp
+  EcoRI    1 cut(s) at [381]
+           fragments (bp): [1261, 381]
+  BamHI    1 cut(s) at [874]
+           fragments (bp): [874, 768]
+  HindIII  2 cut(s) at [29, 295]
+           fragments (bp): [1347, 266, 29]
+  All 3    4 cut(s) at [29, 295, 381, 874]
+           fragments (bp): [768, 493, 266, 86, 29]
+  saved gel_single.png
+
+NC_001422.1 Escherichia phage phiX174, complete genome
+  length: 5386 bp
+  EcoRI    0 cut(s) at -
+           fragments (bp): [5386]
+  BamHI    0 cut(s) at -
+           fragments (bp): [5386]
+  HindIII  0 cut(s) at -
+           fragments (bp): [5386]
+  All 3    0 cut(s) at -
+           fragments (bp): [5386]
+LT605058.1 Ebola virus isolate Ebola virus Makona isolate Frankfurt genome assembly, complete genome: monopartite
+  length: 18959 bp
+  EcoRI    4 cut(s) at [3069, 10593, 11074, 12628]
+           fragments (bp): [7524, 6331, 3069, 1554, 481]
+  BamHI    1 cut(s) at [18891]
+           fragments (bp): [18891, 68]
+  HindIII  9 cut(s) at [3086, 6002, 8513, 9323, 9822, 11495, 13389, 18154, 18484]
+           fragments (bp): [4765, 3086, 2916, 2511, 1894, 1673, 810, 499, 475, 330]
+  All 3    14 cut(s) at [3069, 3086, 6002, 8513, 9323, 9822, 10593, 11074, 11495, 12628, 13389, 18154, 18484, 18891]
+           fragments (bp): [4765, 3069, 2916, 2511, 1133, 810, 771, 761, 499, 481, 421, 407, 330, 68, 17]
+  saved gel_viruses.png
+
